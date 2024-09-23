@@ -2,6 +2,8 @@
 
 A blank font I made with FontForge.
 
-Here is an example of how I used it to hide the header on the Outlook print page:
+If used, all characters will be white.
+Useful if you want to hide text on a white background.
 
-https://www.youtube.com/watch?v=AbLHuZgMKYg
+Example: in Outlook, if you print an email, you cannot remove the username at the top left.
+If we set this font with white characters as the font of that username text, it will not be visible.
